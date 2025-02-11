@@ -1,0 +1,31 @@
+/** @type {import('tailwindcss').Config} */
+
+const colors = require('tailwindcss/colors')
+
+module.exports = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './sections/**/*.{js,ts,jsx,tsx,mdx}', 
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
+  theme: {
+    extend: {
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+        'gradient-conic':
+          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      },
+      /* Update breakpoints to match official Apple site */
+      screens: {
+        'md': '734px',
+        'md2': '834px',
+        'lg': '1068px'
+      },
+      gridTemplateRows: {
+        '8': 'repeat(8, 1fr)',
+      }
+    },
+  },
+  plugins: [],
+}
