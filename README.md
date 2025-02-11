@@ -1,7 +1,5 @@
 Apple iPhone product page UI clone built with [Next.js](https://nextjs.org/), [Framer Motion](https://www.framer.com/motion/), and [Tailwindcss](https://tailwindcss.com/).
 ___
-Viewable at: [Apple iPhone Page UI Clone](https://apple-i-phone-page-clone-924mip2ws-alexjoshua14.vercel.app/)
-___
 <p align="center">
   <img width="700" alt="Apple_UI_Hero_Desktop" src="https://github.com/Alexjoshua14/Apple-iPhone-Page-Clone/assets/59298565/ae110386-dc34-410f-96a0-7432b56c36da">
   <img width="700" alt="Apple_UI_Spec_Desktop" src="https://github.com/Alexjoshua14/Apple-iPhone-Page-Clone/assets/59298565/6dc8b212-d01d-478d-870b-d445fd94f97a">
