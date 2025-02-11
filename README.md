@@ -6,4 +6,11 @@ ___
   <img width="200" alt="Apple_UI_Hero_Mobile" src="https://github.com/Alexjoshua14/Apple-iPhone-Page-Clone/assets/59298565/249c8a0d-bbf0-41fe-b85c-c0356d2e2eff">
   <img width="200" alt="Apple_UI_Spec_1_Mobile" src="https://github.com/Alexjoshua14/Apple-iPhone-Page-Clone/assets/59298565/445469e0-9e58-41b2-8687-83e5f69da5dd">
   <img width="200" alt="Apple_UI_Spec_2_Mobile" src="https://github.com/Alexjoshua14/Apple-iPhone-Page-Clone/assets/59298565/1f5e5935-b757-49be-b1fc-4bc32c4ebeae">
+
+  ___
+  
+
+https://github.com/user-attachments/assets/994714d4-7011-415f-8139-27fa4a8b8b34
+
+
 </p>
